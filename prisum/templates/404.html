@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}404{% endblock %}
+{% block content %}
+    <div class="container">
+        <div class="error-template" style="padding: 15px; margin: 0 auto; text-align: center;">
+            <h1>Oops!</h1>
+            <h2>404 Not Found</h2>
+            <div class="error-details" style="padding-bottom: 10px">
+                Sorry, an error has occurred - {{ error }}.
+            </div>
+            <div class="error-actions">
+                <a href="/" class="btn btn-primary btn-lg">Take Me Home </a>
+            </div>
+        </div>
+    </div>
+{% endblock %}
