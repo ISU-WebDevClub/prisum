@@ -8,7 +8,7 @@ To contribute to this project, you may want to familiarize yourself with the fol
 **Languages**
 - [CSS](http://www.w3schools.com/css/)
 - [HTML5](http://www.w3schools.com/html/)
-- [Javascript](http://www.w3schools.com/js/) ([Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (+[JSX](https://facebook.github.io/react/docs/jsx-in-depth.html))
+- [Javascript](http://www.w3schools.com/js/) ([Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) +[JSX](https://facebook.github.io/react/docs/jsx-in-depth.html))
 
 **Libraries**
 - [Bootstrap](http://www.w3schools.com/bootstrap/) ([API](http://getbootstrap.com/components/))
