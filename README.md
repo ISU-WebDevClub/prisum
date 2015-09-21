@@ -12,7 +12,7 @@ To contribute to this project, you may want to familiarize yourself with the fol
 
 **Libraries**
 - [Bootstrap](http://www.w3schools.com/bootstrap/) ([API](http://getbootstrap.com/components/))
-- [Boostrap Social](http://lipis.github.io/bootstrap-social/)
+- [Bootstrap Social](http://lipis.github.io/bootstrap-social/)
 - [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
 - [jQuery](http://www.w3schools.com/jquery/) ([API](https://api.jquery.com/))
 - [React](https://facebook.github.io/react/docs/tutorial.html)
