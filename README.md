@@ -1,6 +1,40 @@
 # prisum
 The website for PrISUm Solar Car Team at Iowa State University
 
+# Technologies
+To contribute to this project, you may want to familiarize yourself with the following languages and technologies.
+
+### Frontend
+**Languages**
+- [CSS](http://www.w3schools.com/css/)
+- [HTML5](http://www.w3schools.com/html/)
+- [Javascript](http://www.w3schools.com/js/) ([Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (+[JSX](https://facebook.github.io/react/docs/jsx-in-depth.html))
+
+**Libraries**
+- [Bootstrap](http://www.w3schools.com/bootstrap/) ([API](http://getbootstrap.com/components/))
+- [Boostrap Social](http://lipis.github.io/bootstrap-social/)
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
+- [jQuery](http://www.w3schools.com/jquery/) ([API](https://api.jquery.com/))
+- [React](https://facebook.github.io/react/docs/tutorial.html)
+
+**Tools**
+None
+
+### Backend
+**Languages**
+- [Python](https://www.codecademy.com/tracks/python) ([Docs](https://docs.python.org/2/))
+
+**Libraries**
+- [Flask](http://flask.pocoo.org/)
+- [Jinja2](http://jinja.pocoo.org/)
+
+**Tools**
+- [pip](https://pip.pypa.io/en/stable/quickstart/)
+
+### Other Tools
+- [Git](https://try.github.io/) (or [SourceTree](https://www.sourcetreeapp.com/))
+- [PyCharm](https://www.jetbrains.com/pycharm/) (recommended)
+
 # Installing
 ### 1. Download and install Python 2
 [Python 2](https://www.python.org/downloads/) will be used to run the server. This allows us to use [Jinja2 templates](http://jinja.pocoo.org/docs/dev/) to reduce HTML duplication. _Make sure you install Python 2, **not** Python 3_. Python versions older than 2.7.9 do not include the package manager, pip. For those versions, you will need to [manually install pip](https://pip.pypa.io/en/stable/installing/).
