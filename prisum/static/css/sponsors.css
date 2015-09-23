@@ -1,0 +1,43 @@
+div.Platinum{text-align: center;}
+
+div.Platinum h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Benefactor img{
+    height: 100px;
+}
+div.cd-adapco img{
+    align: center;
+    height: 100px;
+}
+
+div.Gold{text-align: center;}
+
+div.Gold h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, gold);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Gold img{height: 100px;}
+
+div.Cardinal{text-align: center;}
+div.Cardinal h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, darkred);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Cardinal img{height: 100px;}
+
+div.Benefactor{text-align: center;}
+div.Benefactor h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+

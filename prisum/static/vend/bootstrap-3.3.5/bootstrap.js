@@ -326,7 +326,7 @@ if (typeof jQuery === 'undefined') {
 
   Carousel.VERSION  = '3.3.5'
 
-  Carousel.TRANSITION_DURATION = 600
+  Carousel.TRANSITION_DURATION = 5000
 
   Carousel.DEFAULTS = {
     interval: 5000,
