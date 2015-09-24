@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ISU-WebDevClub/prisum.svg)](https://travis-ci.org/ISU-WebDevClub/prisum)
+
 # prisum
 The website for PrISUm Solar Car Team at Iowa State University
 
