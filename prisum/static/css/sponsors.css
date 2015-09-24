@@ -1,0 +1,92 @@
+div.Platinum{text-align: center;}
+
+div.Platinum h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+hr{
+    margin-top: -8px;
+    margin-bottom: -10px;
+}
+img{
+    height: 65px;
+    margin-top: 30px;
+    margin-left: -85px;
+}
+
+div.Gold{text-align: center;}
+
+div.Gold h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, gold);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Gold h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(#eee, gold);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+div.Cardinal{text-align: center;}
+div.Cardinal h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, darkred);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Cardinal h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(#eee, darkred);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    }
+div.Benefactor{text-align: center;}
+div.Benefactor h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Benefactor h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(#eee, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Sustainer{text-align: center;}
+div.Sustainer h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, darkorange);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Sustainer h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(#eee, darkorange);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Adopter{text-align: center;}
+div.Adopter h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+div.Adopter img{margin-left: 0px;}
+div.Adopter h3{
+    font-size: 30px;
+    margin-top: 0px;
+    background: -webkit-linear-gradient(#eee, pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
