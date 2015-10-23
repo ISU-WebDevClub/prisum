@@ -32,4 +32,5 @@ body {
     position: fixed;
     bottom: 12px;
     right: 2vw;
+    display: none;
 }
