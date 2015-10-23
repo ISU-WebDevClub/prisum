@@ -11,12 +11,12 @@ $(document).ready(function() {
             backToTop.fadeOut(200);
         }
 
-        if (backToTop.offset().top + backToTop.outerHeight() > $('#footer').offset().top) {
-            backToTop.css({'position': 'absolute', 'bottom': $('#footer').outerHeight()});
+        if (backToTop.offset().top + backToTop.outerHeight() > $('#footer').offset().top - 12) {
+            backToTop.css({'position': 'absolute', 'bottom': ($('#footer').outerHeight() + 12)});
         }
 
-        if ($(this).scrollTop() + $(this).height() < $(document).height() - $('#footer').outerHeight() + 12) {
-            backToTop.css({'position': 'fixed', 'bottom': '1em'});
+        if ($(this).scrollTop() + $(this).height() < $(document).height() - $('#footer').outerHeight()) {
+            backToTop.css({'position': 'fixed', 'bottom': '12px'});
         }
     });
 

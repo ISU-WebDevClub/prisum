@@ -31,15 +31,5 @@ body {
 .back-to-top {
     position: fixed;
     bottom: 12px;
-    right: 12px;
-    text-decoration: none;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.6);
-    font-size: 12px;
-    padding: 1em;
-}
-
-.back-to-top:hover {
-    background-color: rgba(0, 0, 0, 0.9);
-    color: white;
+    right: 2vw;
 }
