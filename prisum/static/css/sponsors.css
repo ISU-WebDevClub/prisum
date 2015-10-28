@@ -1,0 +1,161 @@
+
+.Platinum{text-align: center;}
+
+.Platinum h2{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#eee, darkgray);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+hr{
+    margin-top: -8px;
+    margin-bottom: -10px;
+}
+img{
+    height: 65px;
+    margin-top: 30px;
+    margin-left: -85px;
+}
+.Gold{text-align: center;}
+
+.Gold h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, gold);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Gold h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.Cardinal{text-align: center;}
+.Cardinal h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, darkred);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Cardinal h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    }
+.Benefactor{text-align: center;}
+.Benefactor h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Benefactor h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Sustainer{text-align: center;}
+.Sustainer h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, darkorange);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Sustainer h3{
+    font-size: 30px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopter{text-align: center;}
+.Adopter h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopter img{margin-left: 0px;}
+.Adopter h3{
+    font-size: 30px;
+    margin-top: 20px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.innershadow h4{
+    padding-bottom: 5px;
+
+}
+
+.statement{
+    font-size: 14px;
+}
+.innershadow {
+    background: lightgray;
+    text-align: center;
+    -moz-box-shadow: 3px 3px 5px 6px gray;
+    -webkit-box-shadow: 3px 3px 5px 6px gray;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+.Adopt-a-Cell-Sponsors{
+
+}
+
+/* ************ */
+/*Sponsors of Solar Cells, Wheels, and Batteries*/
+/* ************ */
+
+.Adopt-a-Battery-Sponsors{text-align: center;}
+.Adopt-a-Battery-Sponsors h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopt-a-Battery-Sponsors img{margin-left: 0px;}
+.Adopt-a-Battery-Sponsors h3,h4{
+    font-size: 20px;
+    margin-top: 20px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Adopt-a-Tire-Sponsors{text-align: center;}
+.Adopt-a-Tire-Sponsors h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopt-a-Tire-Sponsors img{margin-left: 0px;}
+.Adopt-a-Tire-Sponsors h3,h4{
+    font-size: 20px;
+    margin-top: 20px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopt-a-Cell-Sponsors{text-align: center;}
+.Adopt-a-Cell-Sponsors h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Adopt-a-Cell-Sponsors img{margin-left: 0px;}
+.Adopt-a-Cell-Sponsors h3,h4{
+    font-size: 20px;
+    margin-top: 20px;
+    background: -webkit-linear-gradient(darkgray, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
