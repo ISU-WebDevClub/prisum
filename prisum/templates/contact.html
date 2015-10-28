@@ -152,13 +152,6 @@
 
 </div>
 
-<script type="text/javascript">
-    function changeBodyHeight(tabContentID) {
-        setTimeout(function(){          // The timeout allows the content panel to resize before checking the size
-            var newHeight = document.getElementById(tabContentID).offsetHeight + 300;
-            console.log(newHeight);
-            document.getElementsByTagName('body')[0].style.height = newHeight + "px";
-        }, 1);
-    }
-</script>
+<script type="text/javascript" src="../static/js/window_resize_watcher.js"></script>
+
 {% endblock %}
