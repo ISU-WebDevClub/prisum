@@ -58,7 +58,7 @@ source ~/.virtualenvs/prisum/bin/activate
 ```
 
 ### 3. Install the required Python packages
-From the root project directory, run the command `pip install -r requirements.txt`. _Make sure your virtual environment is active first._
+From the root project directory, run the command `pip install -r requirements_dev.txt`. _Make sure your virtual environment is active first._
 
 # Running
 To start the server, run the command `python run.py` from the root project directory. As long as this server is running, you will be able to activate the website via localhost.
