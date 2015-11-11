@@ -6,7 +6,7 @@
 
   <ul class="tabs">
     <li id="email-and-postal-address">
-      <input type="radio" name="tabs" id="tab1" checked/>
+      <input type="radio" name="tabs" id="tab1" checked>
       <!--<img src="../static/img/icon_email.png" width="50px">-->
       <label for="tab1" onclick="changeBodyHeight('tab-content1')">Email & Postal Address</label>
 
@@ -55,7 +55,7 @@
     </li>
 
     <li id="location">
-      <input type="radio" name="tabs" id="tab2"/>
+      <input type="radio" name="tabs" id="tab2">
       <!--<img src="../static/img/icon_home.png" width="50px">-->
       <label for="tab2" onclick="changeBodyHeight('tab-content2')">Location</label>
 
@@ -92,7 +92,7 @@
     </li>
 
     <li id="outreach">
-      <input type="radio" name="tabs" id="tab3"/>
+      <input type="radio" name="tabs" id="tab3">
       <!--<img src="../static/img/icon_handshake.png" width="50px">-->
       <label for="tab3" onclick="changeBodyHeight('tab-content3')">Outreach</label>
 
@@ -150,10 +150,12 @@
     </li>
   </ul>
 
-  <br style="clear: both;"/>
+  <br style="clear: both;">
 
 </div>
 
-<script type="text/javascript" src="../static/js/window-resize-watcher.js"></script>
-
+{% endblock %}
+{% block script %}
+<!--JAVASCRIPT TO RESIZE WINDOW FOR DIFFERENT TABS-->
+<script src="../static/js/window-resize-watcher.js"></script>
 {% endblock %}
