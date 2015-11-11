@@ -94,6 +94,9 @@ body {
 .tabs .tab-content a:hover {
     color: #FADA63;
 }
+.tabs .tab-content a.btn-red-on-yellow {
+  color: #A71930;
+}
 .tabs [id^="tab"]:checked + label {
   top: 0;
   padding-top: 17px;
@@ -107,6 +110,70 @@ body {
   background: #96162B;
   border: none;
 }
-.btn-yellow-on-red {
-  text-align:
+
+.btn-red-on-yellow {
+  color: #A71930;
+  background-color: #FDC82F;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow:focus,
+.btn-red-on-yellow.focus {
+  color: #A71930;
+  background-color: #FADA63;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow:hover {
+  color: #A71930;
+  background-color: #FADA63;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow:active,
+.btn-red-on-yellow.active,
+.open > .dropdown-toggle.btn-red-on-yellow {
+  color: #A71930;
+  background-color: #FADA63;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow:active:hover,
+.btn-red-on-yellow.active:hover,
+.open > .dropdown-toggle.btn-red-on-yellow:hover,
+.btn-red-on-yellow:active:focus,
+.btn-red-on-yellow.active:focus,
+.open > .dropdown-toggle.btn-red-on-yellow:focus,
+.btn-red-on-yellow:active.focus,
+.btn-red-on-yellow.active.focus,
+.open > .dropdown-toggle.btn-red-on-yellow.focus {
+  color: #A71930;
+  background-color: #FADA63;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow:active,
+.btn-red-on-yellow.active,
+.open > .dropdown-toggle.btn-red-on-yellow {
+  background-image: none;
+}
+.btn-red-on-yellow.disabled,
+.btn-red-on-yellow[disabled],
+fieldset[disabled] .btn-red-on-yellow,
+.btn-red-on-yellow.disabled:hover,
+.btn-red-on-yellow[disabled]:hover,
+fieldset[disabled] .btn-red-on-yellow:hover,
+.btn-red-on-yellow.disabled:focus,
+.btn-red-on-yellow[disabled]:focus,
+fieldset[disabled] .btn-red-on-yellow:focus,
+.btn-red-on-yellow.disabled.focus,
+.btn-red-on-yellow[disabled].focus,
+fieldset[disabled] .btn-red-on-yellow.focus,
+.btn-red-on-yellow.disabled:active,
+.btn-red-on-yellow[disabled]:active,
+fieldset[disabled] .btn-red-on-yellow:active,
+.btn-red-on-yellow.disabled.active,
+.btn-red-on-yellow[disabled].active,
+fieldset[disabled] .btn-red-on-yellow.active {
+  background-color: #FDC82F;
+  border-color: #CD9802;
+}
+.btn-red-on-yellow .badge {
+  color: #FDC82F;
+  background-color: #fff;
 }
