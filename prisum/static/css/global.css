@@ -103,3 +103,10 @@ body {
 .tabs [id^="tab"]:checked ~ [id^="tab-content"] {
   display: block;
 }
+.address-card {
+  background: #96162B;
+  border: none;
+}
+.btn-yellow-on-red {
+  text-align:
+}
