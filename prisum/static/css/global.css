@@ -88,14 +88,19 @@ body {
       -ms-border-radius: 5px;
           border-radius: 5px;
 }
-.tabs .tab-content a {
+.tabs a {
     color: #FDC82F;
 }
-.tabs .tab-content a:hover {
+.tabs a:hover {
     color: #FADA63;
 }
-.tabs .tab-content a.btn-white-on-yellow {
+.tabs a.btn-white-on-yellow {
   color: #fff;
+}
+.tabs img {
+  border-color: #822433;
+  border-width: 1px;
+  border-style: solid;
 }
 .tabs [id^="tab"]:checked + label {
   top: 0;
@@ -109,6 +114,9 @@ body {
 .address-card {
   background: #96162B;
   border: none;
+}
+.address-card h3 {
+  margin-top: 10px;
 }
 
 .btn-white-on-yellow {
